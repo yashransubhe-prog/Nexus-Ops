@@ -30,6 +30,16 @@ The product brings together mobile-first interaction, cloud-connected services, 
 
 > **Repository type:** Public product documentation only. No runnable app source, secrets, or private cloud configuration is published.
 
+## Nexus Ops 2.0 — Industrial Command Center (design vision)
+
+The next-generation experience is being planned around a **fast local logo reveal**, a **one-time offline feature tour**, a **role-aware command dashboard**, improved **task assignment**, and industrial workflows such as **Asset Passport**, **Shift Pulse**, and **ProofPack**.
+
+**[Explore the full public product-experience blueprint →](docs/NEXUS_OPS_2_0_EXPERIENCE_VISION.md)**
+
+> **Planned upgrade — not released functionality.** The proprietary Flutter application source and any associated secrets remain private.
+
+---
+
 ## Product focus
 
 | | Area | Intended experience |
