@@ -22,6 +22,22 @@
 
 ---
 
+<div align="center">
+
+### Android APK
+
+![APK status](https://img.shields.io/badge/Android_APK-Not_published_yet-687587?style=for-the-badge&logo=android&logoColor=white)
+
+[**View Android releases →**](https://github.com/yashransubhe-prog/Nexus-Ops/releases)
+
+**The installable APK is not available yet.** Once a tested `NexusOps.apk` is attached to a GitHub Release, this section can become a **one-tap direct download** for Android visitors.
+
+[APK publishing instructions](docs/ANDROID_APK_RELEASE.md)
+
+</div>
+
+---
+
 ## Overview
 
 **Nexus Ops** is the business operations product within the **Nexus Dynamics** portfolio. Its direction is a unified, approachable workspace for organizing business information and operational workflows.
