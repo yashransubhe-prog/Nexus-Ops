@@ -16,6 +16,10 @@
 
 </div>
 
+<div align="center">
+<img src="assets/nexus-ops-cover.svg" width="100%" alt="Branded Nexus Ops product cover" />
+</div>
+
 ---
 
 ## Overview
@@ -73,9 +77,15 @@ flowchart LR
 - **Practical output:** support real business documentation needs.
 - **Mobile-first thinking:** create an experience that remains approachable on smaller screens.
 
-## Product previews
+## Visual identity
 
-Approved, real screenshots of the application can be added here. None are included yet because the current upload contains configuration files, not the UI image assets or Dart screen implementations.
+The public cover above draws on the supplied **midnight-blue circuit-board**, multicolor Nexus Dynamics identity, and network-connected phone artwork. The product's promotional positioning is **“The Core of Your Data Network”**, describing a vision for mapping distributed information, systems, and teams.
+
+**Artwork note:** The cover is a conceptual product illustration, not a screenshot of a verified running mobile application.
+
+## Promotional artwork
+
+The original Nexus Ops promotional posters supplied by the product creator are retained separately for publication. Approved marketing images may be showcased here without exposing the app's Dart source, private credentials, or internal services.
 
 ## Repository access
 
